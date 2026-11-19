@@ -24,3 +24,39 @@
 .audio-art {
   background: #263447;
 }
+
+
+/* Ink and slate palette */
+:root {
+  --ink: #252d3b;
+  --muted: #737b89;
+  --blue: #64748b;
+  --rust: #64748b;
+  --olive: #8490a1;
+}
+
+.wordmark span,
+.text-link,
+.text-link span,
+.clip-number,
+.arrow-link,
+.filter-note span {
+  color: #64748b;
+}
+
+.text-link {
+  border-color: #64748b;
+}
+
+.art-blue,
+.audio-art {
+  background: #263447;
+}
+
+.art-rust {
+  background: #64748b;
+}
+
+.art-olive {
+  background: #8490a1;
+}
